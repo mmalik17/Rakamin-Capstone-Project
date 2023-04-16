@@ -57,7 +57,20 @@ Machine learning Output : Customer response label from given customer characteri
 
 # <b> 3. Machine Learning Modelling </b>
 ## Modelling Process
+The modelling process use 6 kinds of ML model. 
+
+- Modelling result without hyperparameter:
+
+- Modelling result with hyperparameter:
+
 ## Model Evaluation
+In this project, the most important machine learning metric is <b>Recall</b>. 
+
+<b> Reasoning: </b>
+Big value of Recall means small amount of false negative. False negative means the ML model predicts the customer would response, while actually not.
+Big false negative will prevent the marketer from sending the campaign to potential customer. The impact is, there will be loss potential revenue
+
+The model that have the greatest recall value is <b> Logistic Regression with Hyperparameter </b>
 
 # <b> 4. Business Insight </b>
 ## Evaluation

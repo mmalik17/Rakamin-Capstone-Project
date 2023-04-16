@@ -6,13 +6,13 @@
 <b> Requirement for running the code </b> <br>
 Library needed to be installed
 
-<b> 1. Business Understanding </b>
-- Background Problems
+<b> 1. Business Understanding</b>
+- [Background Problems](##Background-Problems)
 - Purpose
 - Scope
 
 <b> 2. Data Understanding and Preparation </b>
-- Feature that available
+- Feature that available 
 - Exploratory Data Analysis
 - Data Preprocessing
 
@@ -25,8 +25,11 @@ Library needed to be installed
 - Action Items  
 
 # <b> Requirement for running the code </b>
-Library needed to be installed:
-Numpy, Pandas, Matplotlib, Seaborn, Datetime
+Library needed to be installed: <br>
+- Data Analysis: Numpy, Pandas, Matplotlib, Seaborn
+- Data Preprocessing: Datetime, sklearn, scipy, imblearn
+- Modelling : sklearn, shap, xgboost
+
 # <b> 1. Business Understanding </b>
 ## Background Problems
 The campaign carried out by a retail company was less effective, as seen from the campaign response which only reached 14.91%. As a results, the profit obtained is not optimal.
@@ -42,9 +45,10 @@ The model only can give the result whether customer responses the campaign or no
 Machine learning Output : Customer response label from given customer characteristic
 
 # <b> 2. Data Understanding and Preparation </b>
-## Feature that available
-
+## Feature that available 
+![column](https://github.com/mmalik17/marketing-campaign-analysis/blob/main/fig/Column-List.jpg?raw=true)
 ## Exploratory Data Analysis
+![EDA](https://github.com/mmalik17/marketing-campaign-analysis/blob/main/fig/EDA-Edu-Year.jpg?raw=true)
 ## Data Preprocessing
 - Drop all missing value because the number of missing value is only 1.07% of the number of row
 - Create new feature such as kidsorteen, generation, campaign result, and total spending
@@ -60,8 +64,9 @@ Machine learning Output : Customer response label from given customer characteri
 The modelling process use 6 kinds of ML model. 
 
 - Modelling result without hyperparameter:
-
+![Result](https://github.com/mmalik17/marketing-campaign-analysis/blob/main/fig/without-hyperparam.jpg?raw=true)
 - Modelling result with hyperparameter:
+![Result](https://github.com/mmalik17/marketing-campaign-analysis/blob/main/fig/with-hyperparam.jpg?raw=true)
 
 ## Model Evaluation
 In this project, the most important machine learning metric is <b>Recall</b>. 

@@ -3,20 +3,20 @@
 # CONTENTS
 Requirement for running the code
 
-1. Business Understanding
+<b> 1. Business Understanding </b>
 - Background Problems
 - Objective
 - Scope
 
-2. Data Understanding and Preparation
+<b> 2. Data Understanding and Preparation </b>
 - Feature that available
 - Exploratory Data Analysis
 - Data Preprocessing
 
-3. Machine Learning Modelling
+<b> 3. Machine Learning Modelling </b>
 - Modelling Process
 - Model Evaluation
 
-4. Business Insight
+<b> 4. Business Insight </b>
 - Evaluation
 - Action Items  

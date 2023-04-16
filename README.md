@@ -25,7 +25,8 @@ Library needed to be installed
 - Action Items  
 
 # <b> Requirement for running the code </b>
-
+Library needed to be installed:
+Numpy, Pandas, Matplotlib, Seaborn, Datetime
 # <b> 1. Business Understanding </b>
 ## Background Problems
 The campaign carried out by a retail company was less effective, as seen from the campaign response which only reached 14.91%. As a results, the profit obtained is not optimal.

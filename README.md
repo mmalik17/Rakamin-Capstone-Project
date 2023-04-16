@@ -66,8 +66,8 @@ The modelling process use 6 kinds of ML model.
 ## Model Evaluation
 In this project, the most important machine learning metric is <b>Recall</b>. 
 
-<b> Reasoning: </b>
-Big value of Recall means small amount of false negative. False negative means the ML model predicts the customer would response, while actually not.
+<b> Reasoning: </b> <br>
+Big value of Recall means small amount of false negative. False negative means the ML model predicts the customer would response, while actually not. <br>
 Big false negative will prevent the marketer from sending the campaign to potential customer. The impact is, there will be loss potential revenue
 
 The model that have the greatest recall value is <b> Logistic Regression with Hyperparameter </b>
@@ -75,3 +75,7 @@ The model that have the greatest recall value is <b> Logistic Regression with Hy
 # <b> 4. Business Insight </b>
 ## Evaluation
 ## Action Items  
+The additional program that should be considered are:
+<b> 1. Loyalty Program: </b> Providing vouchers and product recommendations for old customers who have not shopped in a certain range to return to shopping
+<b> 2. Customer Experience via Catalog and Website shopping: </b> Optimizing product recommendations based on most buy and offering up-selling and cross-selling
+<b> 3. Vouchers for minimum spent: </b> vouchers / discounts that can be used for a limited period so that customers return to shopping

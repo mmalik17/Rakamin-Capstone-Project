@@ -76,6 +76,6 @@ The model that have the greatest recall value is <b> Logistic Regression with Hy
 ## Evaluation
 ## Action Items  
 The additional program that should be considered are:
-<b> 1. Loyalty Program: </b> Providing vouchers and product recommendations for old customers who have not shopped in a certain range to return to shopping
-<b> 2. Customer Experience via Catalog and Website shopping: </b> Optimizing product recommendations based on most buy and offering up-selling and cross-selling
+<b> 1. Loyalty Program: </b> Providing vouchers and product recommendations for old customers who have not shopped in a certain range to return to shopping <br>
+<b> 2. Customer Experience via Catalog and Website shopping: </b> Optimizing product recommendations based on most buy and offering up-selling and cross-selling <br>
 <b> 3. Vouchers for minimum spent: </b> vouchers / discounts that can be used for a limited period so that customers return to shopping

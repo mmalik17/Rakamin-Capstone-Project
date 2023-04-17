@@ -7,7 +7,7 @@
 Library needed to be installed
 
 <b> 1. Business Understanding</b>
-- [Background Problems](##Background-Problems)
+- Background Problems
 - Purpose
 - Scope
 

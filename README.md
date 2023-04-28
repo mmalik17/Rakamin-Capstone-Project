@@ -1,6 +1,7 @@
 # PROJECT OVERVIEW
 - Build machine learning model that can predict the customer response of the marketing campaign 
 - The dataset source is from Kaggle : https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+- The complete explanation about this project is available on PDF file
 
 # <b> Requirement for running the code </b>
 Library needed to be installed: <br>

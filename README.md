@@ -26,6 +26,7 @@ Machine learning Output : Customer response label from given customer characteri
 # <b> 2. Data Understanding and Preparation </b>
 ## Data Understanding 
 ![column](https://github.com/mmalik17/marketing-campaign-analysis/blob/main/fig/Column-List.jpg?raw=true)
+<br>
 This table has 28 columns with 'Response' column is regarded as a label. Among 27 features, this table has 3 categorical columns and 24 numerical columns.
 ## Data Preprocessing
 - Drop all missing value because the number of missing value is only 1.07% of the number of row

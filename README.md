@@ -1,9 +1,9 @@
 # PROJECT OVERVIEW
 Build machine learning model that can predict the customer response of the marketing campaign 
 - The dataset source is from Kaggle : https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
-- The complete explanation about this project is available on PDF file:
+- The complete explanation about this project is available on PDF file: <br>
   https://github.com/mmalik17/Rakamin-Capstone-Project/blob/main/Project%20Presentation.pdf
-- The complete Phyton code is available in this notebook link:
+- The complete Phyton code is available in this notebook link: <br>
   https://github.com/mmalik17/Rakamin-Capstone-Project/blob/main/Python_code.ipynb
 
 # <b> Requirement for running the code </b>

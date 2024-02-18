@@ -1,5 +1,5 @@
 # PROJECT OVERVIEW
-### <b> Project Title: </b> Optimize the Marketing Campaign using Logistic Regression
+### <b> Project Title: </b> Optimize the Marketing Campaign Performance using Logistic Regression
 
 Build machine learning model that can predict the customer response of the marketing campaign to optimize the marketing campaign performance
 - The dataset source is from Kaggle : https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
